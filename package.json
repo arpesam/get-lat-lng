@@ -10,9 +10,7 @@
   "author": "Danilo Sampaio (@arpesam)",
   "license": "ISC",
   "dependencies": {
-    "@google/maps": "^1.0.1",
     "axios": "^0.19.0",
-    "dotenv": "^8.1.0",
     "node-env-run": "^3.0.2"
   }
 }
