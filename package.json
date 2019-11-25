@@ -2,9 +2,9 @@
   "name": "get-lat-long-google",
   "version": "1.0.0",
   "description": "Google Api request to get lat long passing an address",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodenv index.js"
+    "start": "nodenv app.js"
   },
   "envFile": "${workspaceFolder}/.env",
   "author": "Danilo Sampaio (@arpesam)",
