@@ -1,4 +1,6 @@
 require('dotenv').config()
+require("babel-core/register");
+require("babel-polyfill");
 const axios = require('axios')
 const express = require('express')
 var bodyParser = require('body-parser')
